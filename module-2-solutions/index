@@ -5,18 +5,23 @@
         <h1>Module-2-solution</h1>
         </head>
 
-    <body id ="screen">
-      <div class="column">
+    <body id = "screen">
+      
+      <div id="box">
         <div class="col-dt-4 col-tb-6 col-mb-12">
-            <p id="p1">
+                  <h3>chocolate</h3>
+            <p id="p">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
        <div class ="col-dt-4 col-tb-6 col-mb-12">
-            <p id = "p2">
+          <h3>sugar</h3>
+            <p id = "p">
+        
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
       <div class ="col-dt-4 col-tb-6 col-mb-12">
-            <p id = "p3">
+           <h3>cinnamon</h3> 
+            <p id = "p">
+   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
-      </div>
       </div>
     </body>
     </html>
