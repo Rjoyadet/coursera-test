@@ -5,13 +5,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
         <title> Module-2-solution</title>
         <h1>Module-2-solution</h1>
-<<<<<<< HEAD
         <link rel="stylesheet" href="module-2-solutions.css">
-=======
-<link rel="stylesheet" href="module-2-solutions.css"
->>>>>>> 97721c6659ccf9fd3ea8b007f16b4c06d2835c54
-        </head>
-
+        
+      </head>
     <body id = "screen">
       
   <div id = "box">
