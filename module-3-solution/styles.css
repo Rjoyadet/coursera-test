@@ -1,3 +1,8 @@
+body {
+    color: #000;
+    font-family: Georgia, serif;
+}
+
 #header-nav {
     background-color: #b8f1b6;
     border-radius: 0;
@@ -7,5 +12,12 @@
     padding-top: 25px;
 }
 
+.navbar-brand {
+    padding-top: 25px;
+}
+
 .navbar-header navbar-default.
 { border: 1px solid #4e504f;}
+
+
+
