@@ -1,0 +1,31 @@
+<!Doctype HTML>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> Module-2-solution</title>
+        <h1>Module-2-solution</h1>
+        <link rel="stylesheet" href="module-2-solutions.css">
+        
+      </head>
+    <body id = "screen">
+      
+  <div id = "box">
+                   
+        <div class="col-dt-4 col-tb-6 col-mb-12">
+            <h3>chocolate</h3>
+ 
+            <p id="p">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
+       <div class ="col-dt-4 col-tb-6 col-mb-12">
+          <h3>sugar</h3>
+            <p id = "p">
+        
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
+       <div class ="col-dt-4 col-tb-6 col-mb-12">
+           <h3>cinnamon</h3> 
+   <p id = "p">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum quis metus et pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius elit eu ligula volutpat, sit amet semper diam dictum. Nunc non lectus nec mauris cursus posuere. Duis et tortor pulvinar, tempor nibh et, maximus lacus.</p></div>
+      </div>
+    </body>
+    </html>
