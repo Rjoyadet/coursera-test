@@ -1,11 +1,11 @@
 #header-nav {
-    background-color: #44391e;
+    background-color: #b8f1b6;
     border-radius: 0;
     border: 0;
 }
-,navbar-brand {
+.navbar-header{
     padding-top: 25px;
 }
 
-.navbar-header button.navbar-toggle.
+.navbar-header navbar-default.
 { border: 1px solid #4e504f;}
