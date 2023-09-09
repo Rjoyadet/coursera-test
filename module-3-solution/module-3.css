@@ -1,7 +1,11 @@
-a
-{
-    color: white;
+#header-nav {
+    background-color: #44391e;
+    border-radius: 0;
+    border: 0;
+}
+,navbar-brand {
+    padding-top: 25px;
 }
 
 .navbar-header button.navbar-toggle.
-{ border: 1px solid #00ffd2}
+{ border: 1px solid #4e504f;}
