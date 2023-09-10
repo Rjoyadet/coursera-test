@@ -11,6 +11,7 @@ body {
 }
 .navbar-header{
     padding-top: 25px;
+    padding-bottom: 5px;
 }
 
 .navbar-brand {
@@ -27,7 +28,7 @@ body {
     line-height: .75;
 }
 
-.navbar-brand a:hover, navbar-brand a:focus {
+.navbar-brand a:hover navbar-brand a:focus {
     text-decoration: none;
 }
 
@@ -39,6 +40,14 @@ body {
      border: 1px solid #4e504f;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+  clear:both;
+  margin-top: -30px;
+}
 
 .navbar-toggle {
     position: relative;
@@ -69,3 +78,26 @@ body {
       display: none;
     }
   }
+
+#nav-list {
+  margin-top 10px;
+}
+
+#nav-list a {
+  text-align: center;
+}
+
+#nav-list a:hover{
+ background: #E7E7E7; 
+}
+
+@media (max-width: 767px) {
+  #collapsable-nav a {
+    font-size: 1.2em;
+  }
+
+  #collapsable-nav a-span {
+    font-size: 1em;
+    margin-right: 5px;
+  }
+}
