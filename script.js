@@ -1,9 +1,0 @@
-yaakovGreeter.sayHello();
-paulGreeter.sayHello();
-frankGreeter.sayHello();
-larryGreeter.sayHello();
-paulaGreeter.sayHello();
-LauraGreeter.sayHello();
-johnGoodbye.sayBye();
-jamesGoodbye.sayBye();
-jimGoodbye.sayBye();
